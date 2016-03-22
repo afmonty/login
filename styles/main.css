@@ -1,0 +1,26 @@
+.logoDiv{
+	background: url(https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/jquery-login/master/bg-login-top.png);
+	height: 45%;
+	text-align: center;
+	margin: auto auto;
+}
+img{
+	margin-top: 10em;
+}
+.loginBox{
+	background: url(https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/jquery-login/master/bg-login.png);
+	height: 45%;
+}
+label{
+	color: white;
+	margin-top: .5em;
+}
+input{
+	margin-top: .5em;
+}
+button{
+	background: #519A09;
+	color: white;
+	margin-top: .5em
+	margin-left: 2em;
+}
